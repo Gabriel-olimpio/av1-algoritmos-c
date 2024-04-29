@@ -12,7 +12,7 @@ int main(){
     int i, mais_3000, menos_3000, cont_mais, cont_menos;
     float salario, menos[20], mais[20], gasto_empresa, soma_menos300;
     
-    for(i = 0; i <= 3; i++){
+    for(i = 0; i <= 19; i++){
 
         printf("Digite o salario: ");
         scanf("%f", &salario);
